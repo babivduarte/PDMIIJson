@@ -1,0 +1,26 @@
+{
+
+"elementos":[
+
+{"descricao":"Água"},
+{"descricao":"Ar"},
+{"descricao":"Fogo"},
+{"descricao":"Terra"}
+
+],
+  "numeros":[
+    
+  {"descricao":"1"},
+  {"descricao":"2"},
+  {"descricao":"3"},
+  {"descricao":"4"},
+  {"descricao":"5"},
+  {"descricao":"6"},
+  {"descricao":"7"},
+  {"descricao":"8"},
+  {"descricao":"9"},
+  {"descricao":"10"}
+
+]
+
+}
